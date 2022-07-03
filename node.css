@@ -1,0 +1,40 @@
+html{
+    background-color:darkblue;
+    text-align: center;
+    font-style: italic;
+}
+#N{
+    background-color: blue;
+    color: black;
+    border-radius: 30px;
+}
+#I{
+    background-color: chartreuse;
+    color:dimgrey;
+    border-radius: 30px;
+}
+#F{
+    background-color: brown;
+    color: peru;
+    border-radius: 30px;
+}
+#C{
+    background-color: yellow;
+    color: darkmagenta;
+    border-radius: 30px;
+}
+#H{
+    background-color: gold;
+    color:darkolivegreen;
+    border-radius: 30px;
+}
+#E{
+    background-color: crimson;
+    color: darkslateblue;
+    border-radius: 30px;
+}
+#M{
+    background-color: azure;
+    color: indigo;
+    border-radius: 30px;
+}
